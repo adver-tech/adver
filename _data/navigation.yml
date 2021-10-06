@@ -36,7 +36,7 @@ en-AU:
 
 # Spanish
 # -------
-es: &DEFAULT_ES
+es: *DEFAULT_ES
   nav:
     - title: "服务"
       section: servicios
