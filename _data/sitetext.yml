@@ -316,7 +316,9 @@ zh: &DEFAULT_ZH
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+zh-CN:
+  <<: *DEFAULT_ZH
+#es-ES:
+#  <<: *DEFAULT_ES
+#es-CO:
+#  <<: *DEFAULT_ES
