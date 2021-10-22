@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Expand Your Ads Reach
+    title: Expand Your Reach
     text: Start Your Advertising Journey with Adver!
     button: Tell Me More
     buttonlink: "#services"
@@ -70,8 +70,9 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Adver provides a cloud-based centralized monitor deployment system, which connects advertisers and monitor owners through a simple and efficient APP."
+    text: "Our Story"
+    body: "Adver provides a fully-integrated ecosystem that makes OOH advertising accessible to everyone.
+           Our app provides a one-stop solution for uploading, scheduling, managing, and deploying ads"
     section: about
 
   # clients:
