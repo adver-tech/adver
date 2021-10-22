@@ -71,8 +71,9 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "Adver provides a fully-integrated ecosystem that makes OOH advertising accessible to everyone.
-           Our app provides a one-stop solution for uploading, scheduling, managing, and deploying ads"
+    body: "The world is moving towards a future where every street and building comes with digital signage spaces. We have built a service that allows businesses and individuals to dispatch advertisements to digital signage in seconds with a single press of a button. 
+    
+    Adver completes the evolution of outdoor advertising to the smart age with the empowerment of the internet. Our platform makes out-of-home advertising accessible to everyone and provides convenient tools for management, networking, and analytics; all in one fully integrated solution."
     section: about
 
   # clients:
