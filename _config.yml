@@ -13,16 +13,16 @@
 
 theme: jekyll-agency
 
-url    : "www.adver.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.adver.ca" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Adver
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Adver
+title: Adver
+email: adver.tech.business@gmail.com #this is also the email contact forms will go to
+description: "Adver completes the evolution of outdoor advertising to the smart age with the empowerment of the internet. Our platform makes out-of-home advertising accessible to everyone and provides convenient tools for management, networking, and analytics; all in one fully integrated solution."
+author: Adver
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+# path: assets\img\clients\creative-market.jpg
+# height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -33,7 +33,6 @@ collections:
   portfolio:
 
 markdown: kramdown
-
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"

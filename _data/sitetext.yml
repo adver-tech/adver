@@ -18,17 +18,17 @@ en: &DEFAULT_EN
 
   services:
     title: "Our Services"
-    text: "For Advertiser"
+    text: "For Advertisers"
     section: services
     list:
       - title: "Full Access"
-        desc: "We connect multiple billboard/monitor providers to provide you the most comprehensive choices in your desired areas."
+        desc: "We connect all digital signage providers to provide you with the most comprehensive choices in your area"
         icon: fas fa-tv #find more at https://fontawesome.com/icons
       - title: "Easy Scheduling"
-        desc: "We simplify ads reserving/scheduling process to a few clicks & all in one APP."
+        desc: "We simplify the ad scheduling process to a few simple clicks"
         icon: fas fa-calendar-alt
-      - title: "Ads Manage"
-        desc: "You can review & modify your ads campaign and ads orders in one app."
+      - title: "Ad Management"
+        desc: "You can review & modify your ad campaigns, all in one convenient app"
         icon: fas fa-tasks
 
   # portfolio:
@@ -71,9 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "The world is moving towards a future where every street and building comes with digital signage spaces. We have built a service that allows businesses and individuals to dispatch advertisements to digital signage in seconds with a single press of a button. 
-    
-    Adver completes the evolution of outdoor advertising to the smart age with the empowerment of the internet. Our platform makes out-of-home advertising accessible to everyone and provides convenient tools for management, networking, and analytics; all in one fully integrated solution."
+    body: "Every street and building now comes with digital signage spaces. We have built a service that allows businesses and individuals to dispatch advertisements to digital signage in seconds with a single press of a button. Adver completes the evolution of outdoor advertising to the smart age with the empowerment of the internet. Our platform makes out-of-home advertising accessible to everyone and provides convenient tools for management, networking, and analytics; all in one fully integrated solution."
     section: about
 
   # clients:
@@ -96,52 +94,52 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Peoples who make Adver happens"
-  #  subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "The people who make Adver happen"
+    #  subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Eric"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        #image: assets/img/team/500x500.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Robin"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        #image: assets/img/team/500x500.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Alison"
         role: "Lead Marketer"
-        image: assets/img/team/500x500.jpg
+        #image: assets/img/team/500x500.jpg
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          #- url: https://linkedin.com
-          #  icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
     text: "We would like to hear from you"
     section: contact
-    name: "Name*"
+    name: "Name"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "Email"
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Message"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
     submit: "Contact Us"
@@ -155,8 +153,8 @@ en: &DEFAULT_EN
       #   icon: "fab fa-facebook-f"
       # - url: https://linkedin.com
       #   icon: "fab fa-linkedin-in"
-      - url: https://adver-tech.github.io/adver/
-        icon: "fab fa-github"
+      # - url: https://adver-tech.github.io/adver/
+      #   icon: "fab fa-github"
       # - url: https://instagram.com
       #   icon: "fab fa-instagram"
 en-US:
